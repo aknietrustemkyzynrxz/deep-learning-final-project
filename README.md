@@ -62,9 +62,6 @@ The project uses:
 
 
 ## Repository Structure
-
-## Repository Structure
-
 ```
 project-repo/
 ├── README.md
