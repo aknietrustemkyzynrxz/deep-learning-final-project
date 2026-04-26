@@ -63,17 +63,25 @@ The project uses:
 
 ## Repository Structure
 
+## Repository Structure
+
+```
 project-repo/
 ├── README.md
 ├── project-proposal.md
 ├── data/
+│   └── README.md
 ├── notebooks/
 ├── src/
 ├── reports/
+│   ├── week-01.md
+│   ├── week-02.md
+│   ├── week-03.md
+│   └── week-04.md
 ├── results/
 ├── requirements.txt
 └── final-report.md
-
+```
 ---
 
 ## Final Goal
