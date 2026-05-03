@@ -1,7 +1,6 @@
-# Weekly Report - Week 2
+# Weekly Report - Week 2 Rustemkyzy Akniyet
 
 ## Completed This Week
-
 - I loaded the dataset files: train.csv, test.csv, and sample_submission.csv.
 - I checked the dataset shape, columns, missing values, and class balance.
 - I cleaned the tweet text using simple preprocessing.
@@ -12,20 +11,15 @@
 - I created a baseline submission file.
 
 ## Important Files Changed
-
-Files created or updated this week:
-
+Files created and updated this week:
 - notebooks/week2_baseline.ipynb
 - reports/week-02.md
-- baseline_submission.csv
+- notebooks/baseline_submission.csv
 
 
 ## Experiments Run
-
 This week, I trained the first baseline model.
-
 The baseline model was:
-
 - TF-IDF Vectorizer
 - Logistic Regression
 
