@@ -63,11 +63,3 @@ These examples contain disaster-related words but do not describe real disaster 
 
 The project demonstrated that traditional machine learning approaches can outperform deep learning methods on short text classification tasks.
 Deep learning models remain useful because they can capture sequence information and may perform better with larger datasets and additional tuning.
-
----
-
-## Project Status
-
-Project status: Completed
-
-Week 4 successfully finalized the project and prepared all materials for submission and defense.
