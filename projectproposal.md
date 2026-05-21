@@ -88,7 +88,7 @@ These models are good for text classification because tweets are sequences of wo
 
 ### Loss Function
 
-Binary Cross-Entropy Loss
+CrossEntropyLoss
 
 ### Evaluation Metrics
 
